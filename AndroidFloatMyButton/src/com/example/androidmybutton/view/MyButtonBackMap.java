@@ -1,22 +1,15 @@
 package com.example.androidmybutton.view;
 
-import com.example.androidmybutton.MainActivity;
 import com.example.androidmybutton.MyApplication;
 
 import android.content.Context;
 import android.graphics.Canvas;
-import android.graphics.PixelFormat;
-import android.os.Handler;
 import android.util.AttributeSet;
 import android.util.Log;
-import android.view.Gravity;
 import android.view.MotionEvent;
 import android.view.View;
-import android.view.View.OnTouchListener;
 import android.view.WindowManager;
-import android.view.WindowManager.LayoutParams;
 import android.widget.Button;
-import android.widget.LinearLayout;
 /**
  * 自定义浮动按钮1
  * @author miaowei
